@@ -1,8 +1,22 @@
+Description  
+
+Using React, build a Todo application. The application should allow you to enter in new todo items (text), and list those todo items out immediately below.
+
+Normal Mode  
+
+Replicate the following behavior using React and Redux.
+You should be able to mark an item as completed.
+You should be able to remove an item from the list (completed or not).
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
+
+-------------------------------------------------------------------------------------------
 ## Table of Contents
 
 - [Updating to New Releases](#updating-to-new-releases)
